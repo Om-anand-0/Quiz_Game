@@ -1,0 +1,43 @@
+# Introduction to Quiz Game Project
+
+## Overview
+
+Welcome to the Quiz Game project, a simple and interactive console-based application developed in C. This project aims to provide an engaging platform for users to test their knowledge on various topics through a series of multiple-choice questions.
+
+## Project Objectives
+
+1. **Educational Purpose**: The primary goal of this project is to serve as a practical and beginner-friendly application for learning and practicing C programming concepts.
+
+2. **User Interaction**: The Quiz Game encourages user interaction by presenting questions, accepting input, and providing immediate feedback.
+
+3. **Scoring System**: The inclusion of a scoring system adds a competitive element, allowing users to assess their performance based on correct answers.
+
+4. **Customization Potential**: The project is designed to be easily customizable, providing opportunities for users to extend features, add more questions, or adapt the code to suit their learning objectives.
+
+## Key Features
+
+- **Question Presentation**: Clear and concise display of multiple-choice questions.
+- **User Input Handling**: Robust handling of user input to ensure a seamless experience.
+- **Scoring Mechanism**: Real-time scoring to motivate users and track their progress.
+- **Ease of Use**: Simple console interface for accessibility and ease of understanding.
+
+## How to Use This Documentation
+
+- **Getting Started**: Follow the provided instructions to clone the repository, compile the code, and run the Quiz Game.
+- **Code Structure**: Explore the organization of the code, focusing on the `quiz.c` file and its functions.
+- **Customization**: Learn how to customize the Quiz Game by adding or modifying questions and extending features.
+- **Contributing**: If interested, contribute to the project by forking the repository and submitting pull requests.
+- **Acknowledgments**: Acknowledge and appreciate the inspiration behind this project and any external resources used.
+
+## Target Audience
+
+This project is tailored for individuals seeking a hands-on introduction to C programming and wish to apply their knowledge in a practical and engaging manner. Whether you are a beginner looking to reinforce your skills or an enthusiast eager to explore C programming concepts, the Quiz Game offers an interactive learning experience.
+
+Embark on this journey, test your knowledge, and enjoy the learning adventure with the Quiz Game project!
+
+[Om Anand]
+[om.d3v.21@gmail.com]
+[30-12-23]
+
+---
+

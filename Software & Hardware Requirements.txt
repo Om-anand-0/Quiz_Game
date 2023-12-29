@@ -1,0 +1,18 @@
+# Software Requirements:
+#### C Compiler:
+Ensure you have a C compiler installed on your system. Recommended: GCC (GNU Compiler Collection).
+#### Git:
+If you plan to clone the repository and manage the project using version control, install Git.
+##### Terminal/Command Prompt:
+A terminal or command prompt to execute commands and run the compiled executable.
+
+
+# Hardware Requirements:
+#### Computer:
+A desktop or laptop computer running a compatible operating system (Windows, Linux, macOS).
+##### Memory (RAM):
+A minimum of 2GB RAM is recommended for smooth execution.
+##### Storage:
+Ensure sufficient free storage space for the source code, compiled executable, and any additional files.
+##### Operating System Compatibility:
+The Quiz Game project is designed to be compatible with various operating systems, including Windows, Linux, and macOS.
