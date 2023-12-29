@@ -34,6 +34,7 @@ int main() {
     score += askQuestion("Who's the prime minister of India?", "Rahul Gandhi", "Arvind Kejriwal", "Narendra Modi", "C");
 
     // Display final score
-    printf("Your final score: %d out of 3\n", score);
+    printf("Your final score: %d out of 4\n", score);
 
     return 0;
+}
